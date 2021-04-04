@@ -1208,15 +1208,7 @@ https://docs.google.com/spreadsheets/d/17pbls64cH_0PMY0uaK-IZt8mRI4gKkvyEiknOlUN
 
 ---
 
-# Final High Level Abstraction of RR 20 first articles
-CQ_PRAC/TECN
-En el artículo se presentan prácticas o técnicas asociadas a aspectos de CQ (Como por ejemplo PR(Pull Request), Code Review (CR), etc )
-
-CQ_ATRIB
-En el artículo se mencionanatributos de calidad de código que directa o indirectamente (Como por ejemplo mantenibilidad, escalabilidad, disponibilidad, etc). Mencionar y enumerar cuales son los atributos mencionados.
-
-
-|                                                                                                                                                                                                                                                           |                                                                                                                                      | Q Practice                                                                                                                       | Q Definition |     |
+| Paper                                                                                      | Q Atributes                                                                                                                                                                                                                                                                                           |                                                                                                                                      | Q Practice                                                                                                                       | Q Definition |     |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------ | --- |
 | Text                                                                                       | Text                                                                                                                                                                                                                                                                                                  |                                                                                                                                      | Text                                                                                                                             | Text         |     |
 | 1. Does code quality affect pull request acceptance? An empirical study                    | Maintainability, Faultiness, Change Proneness, Comprehensibility                                                                                                                                                                                                                                      | Pull Request as a Code Review Mechanism, Code Smells, Code Style, Code Review, Static Code Analysis, Metrics of QC                   | No def. "we believe that opensource maintainers are also considering the code quality when accepting or rejecting pull requests. |              |     |
@@ -1226,3 +1218,5 @@ En el artículo se mencionanatributos de calidad de código que directa o indire
 | 14 A model to detect readability improvements in incremental changes                       | Readability/ Non REadability,     Maintenance, Source code readability. |
 15A Developer Recommendation Method Based on Code Quality | Mainteinability, Testability| Code Quality Metrics, Colaborative Development in VCS |
  | 20. The Scent of Deep Learning Code: An Empirical Study |Mainteinability |Code Smells BugFixing Refactoring||
+
+
