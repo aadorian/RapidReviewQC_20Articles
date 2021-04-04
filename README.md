@@ -6,7 +6,7 @@
 Rapid Review : 
 https://docs.google.com/spreadsheets/d/17pbls64cH_0PMY0uaK-IZt8mRI4gKkvyEiknOlUNq0E/edit?usp=sharing
 
-Avance : 20 primeros articulos con proceso de búsqueda . 
+*Avance : 20 primeros articulos con proceso de búsqueda . *
 
 * Motivación - No se presenta en la literatura una definición de consenso respecto de que se entiende por calidad de código.
 Objetivo :  Lograr una definición de QC y sus principales características / dimensiones a partir de una RR.
@@ -43,15 +43,6 @@ Proceso de obtención: Exportación del archivo a Mendeley para poder catalogar 
 
 Unidad de análisis- definición de Calidad Código (atributos)
 
-NOTA: con el alert de Scopus aparecieron
-
-https://docs.google.com/spreadsheets/d/1APXWi-dUeEbXe3swRfUjZ-12dglYtPa0N-u25pP2XII/edit?usp=sharing
-
-Row Number	Document Title	Authors	Year	Source
-1.	How to kill them all: An exploratory study on the impact of code observability on mutation testing	Zhu, Q., Zaidman, A., Panichella, A.	2021	Journal of Systems and Software, 173, art. no. 110864.
-2.	Application of various metrics to assess the program code quality	Gorbachenko, I.M., Gorshkov, E.V., Filipkina, T.N.	2020	Journal of Physics: Conference Series, 1679(3), art. no. 032087.
-3.	Dataflow-based pruning for speeding up superoptimization	Mukherjee, M., Kant, P., Liu, Z., Regehr, J.	2020	Proceedings of the ACM on Programming Languages, 4(OOPSLA), art. no. 177.
-4.	Does code review really remove coding convention violations?	Han, D., Ragkhitwetsagul, C., Krinke, J., Paixao, M., Rosa, G.	2020	Proceedings - 20th IEEE International Working Conference on Source Code Analysis and Manipulation, SCAM 2020, art. no. 9252011, pp. 43-53.
 
 1. Copiar Template ... y completar
 #Template 
@@ -98,7 +89,7 @@ NULL
 > END_ [time=]
 
 
-
+# Rapid Review - Ronda 1
 ---
 
 ```
@@ -504,6 +495,8 @@ Terms and conditions Privacy policy
 Documents
 Export Date: 15 Nov 2020
 ```
+# Rapid Review Ronda 2
+
 1) Lenarduzzi, V., Nikkola, V., Saarimäki, N., Taibi, D.
 
 # 1. Does code quality affect pull request acceptance? An empirical study
@@ -1097,6 +1090,7 @@ Long Method (LM), Long Scope Chaining, ... Long...SLOC (Source Line of Code)
 > START_[time= 27 Nov 2020, 8:00]
 > END_ [time=27 Nov 2020, 8:25]
 
+# Rapid Review Ronda 3
 
 # * Protocolo:
 
@@ -1118,6 +1112,7 @@ https://docs.google.com/spreadsheets/d/1tyPNl7IDVg29RGK-X7flQtQUVPz1TdVHXBZLJPpy
 
 ![](https://i.imgur.com/ujcblVh.jpg)
 
+# Rapid Review Ronda 4
 # * Extracción:
 **CQ_ATRIB**	mantenibilidad,tolerancia a fallas,defectos,
 estilo de codificación, diseño, error prone, documentation,performance,
@@ -1158,15 +1153,13 @@ Paso 3:
 Formalizar los criterios de inclusión y exclusión 
 
 
+# Ronda 5 Síntesis Generica
 
 ---
 title: Definición Inicial de CQ
 tags: Calidad código
 description: versión 0.0.0.1
 ---
-
-
-
 
 ---
 
@@ -1188,19 +1181,12 @@ description: versión 0.0.0.1
 
 ---
 ---
-Transversal : Educación e impacto en la sociedad !!!
+### Reflexión Personal: Educación e impacto en la sociedad 
 ---
 >  Nota: La orientación a la calidad de código a su vez tiene una perspectiva económica de valor (aspecto transversal) esto no aparece dentro como parte de las publicaciones, pero es un punto evidente de la práctica teniendo en cuenta los trade off  restricciones de tiempo, clientes/proyecto y  experiencia de profesionales orientados a construir productos de excelencia.
 > Esto aca es una opinión personal para ver mañana: varias preguntas pueden surgir apartir del concepto de CQ ¿Porqué debería un equipo seguir estándares y calidad de código? ¿Es necesario el escalar, en que medida mi proyecto va a escalar? Si mis clientes son puntuales y proyectos simples podría no aplicar.  ¿Qué tanto se necesita escalar el proyecto? esta sería una pregunta clave para que aplique o no. 
->
-> Pensando en analogías : grandes construcciones necesitan estándares y para ir a una playa un finde con una carpa basta y es suficiente. Pero a la vez un enfoque de calidad extrema y gran construcción implica una gran cantidad de personas haciendo tareas básicas que si bien impactan en el producto final (pensarlo como el constructor de la obra) se necesita el no pienso y la automatización del proceso y supervisión .. llevándolo al estremo sería un Software Slavery Process.
----
----
-Martin : 
-Objetivos de calidad específicos y cómo
-implica una serie de prácticas vinculadas a la construcción -
-Diego : 
-.. todo muy fuera de contexto (al hacer la síntesis), y el contexto de cómo se mencionan estas cosas es importante. Pero eso, no se bien cómo lo hiciste y está bueno que conversemos eso mismo.
+
+
 
 ---
 
@@ -1208,15 +1194,36 @@ https://docs.google.com/spreadsheets/d/17pbls64cH_0PMY0uaK-IZt8mRI4gKkvyEiknOlUN
 
 ---
 
-| Paper                                                                                      | Q Atributes                                                                                                                                                                                                                                                                                           |                                                                                                                                      | Q Practice                                                                                                                       | Q Definition |     |
+# Ronda 6 (Q atributos y prácticas)
+
+Siguiendo el protocolo y dos de las principales características como CQ_ATRIB y CQ_PRAC/TECN . Donde CQ_ATRIB refiere a que enn el artículo se mencionanatributos de calidad de código que directa o indirectamente (Como por ejemplo mantenibilidad, escalabilidad, disponibilidad, etc). Mencionar y enumerar cuales son los atributos mencionados.	
+CQ_PRAC/TEC refiere a que en el artículo se presentan prácticas o técnicas asociadas a aspectos de CQ (Como por ejemplo PR(Pull Request), Code Review (CR), etc )
+
+| Paper                                                                                      | Q Atributes                                |    Q Practice                                                                                                                                   |  Definitions                                                                                                                     | Literal Definition|     |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------ | --- |
-| Text                                                                                       | Text                                                                                                                                                                                                                                                                                                  |                                                                                                                                      | Text                                                                                                                             | Text         |     |
-| 1. Does code quality affect pull request acceptance? An empirical study                    | Maintainability, Faultiness, Change Proneness, Comprehensibility                                                                                                                                                                                                                                      | Pull Request as a Code Review Mechanism, Code Smells, Code Style, Code Review, Static Code Analysis, Metrics of QC                   | No def. "we believe that opensource maintainers are also considering the code quality when accepting or rejecting pull requests. |              |     |
-| 2. A detection tool for code bad smells in java source code                                | Maintenance, Enhance Q of Software                                                                                                                                                                                                                                                                    | Code Smells (Bad Code Smell), Code Bad Smells Automatic Detection Tools , Refactoring                                                | No def. Tool Oriented Solution                                                                                                   |              |     |
-| 5. Does migrating a monolithic system to microservices decrease the technical debt?        | Maintainability                                                                                                                                                                                                                                                                                       | Technical Debt, Code Debt, Code Smells, Coding Tools , Static Analysis Issues, AntiPatterns, Bad Smells, CD/CI, Monitoring TD and QC | SonarQ tool oriented                                                                                                             |     |
+|                                                                                       | | | |     |
+| 1. Does code quality affect pull request acceptance? An empirical study                    | Maintainability, Faultiness, Change Proneness, Comprehensibility                 | Pull Request as a Code Review Mechanism, Code Smells, Code Style, Code Review, Static Code Analysis, Metrics of QC                   | No def. "we believe that opensource maintainers are also considering the code quality when accepting or rejecting pull requests. |              |     |
+| 2. A detection tool for code bad smells in java source code                                | Maintenance, Enhance Q of Software | Code Smells (Bad Code Smell), Code Bad Smells Automatic Detection Tools , Refactoring                                                | No def. Tool Oriented Solution                                                                                                   |              |     |
+| 5. Does migrating a monolithic system to microservices decrease the technical debt?        | Maintainability | Technical Debt, Code Debt, Code Smells, Coding Tools , Static Analysis Issues, AntiPatterns, Bad Smells, CD/CI, Monitoring TD and QC | SonarQ tool oriented   |     |
 | 6. A comparison of quality flaws and technical debt in model transformation specifications | Reliability, Performance efficiency, Usability, Security, Maintainability, Portability, Compatibility and Functional suitability (ISO) Testability, Reliability, Changeability, Efficiency, Usability, Security, Maintainability, Portability and Reuseability.SQALE method approach (Letouzey, 2016) | Technical Debt  Model transformation quality measures,Technical debt indicators and thresholds.Technical debt indicators             | N/A                                                                                                                              |     |
 | 14 A model to detect readability improvements in incremental changes                       | Readability/ Non REadability,     Maintenance, Source code readability. |
 15A Developer Recommendation Method Based on Code Quality | Mainteinability, Testability| Code Quality Metrics, Colaborative Development in VCS |
  | 20. The Scent of Deep Learning Code: An Empirical Study |Mainteinability |Code Smells BugFixing Refactoring||
 
 
+# Síntesis 
+
+De acuerdo a las extracciones detalladas de los artículos y profundizadas en rondas realizadas si bien no se presenta una definición de calidad de código literal en la literatura en la presente RR,  sí hay aspectos a destacar en relación a los atributos y prácticas: 
+
+
+* La mantenibilidad se sostiene como principal atributo de Q Código. 
+* Code Smells, AntiPatters, Technical Debt y Refactoring se mencionan como las principales prácticas en conjunto con otras técnicas de desarrollo colaborativo.
+
+
+# Ronda 7 (extensión de los otros papers ?)
+
+# Ronda 8 Extracción, Puesta en Común
+
+# Ronda 9 Síntesis Final 
+
+# Ronda 10 Paper
