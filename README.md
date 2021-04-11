@@ -1220,7 +1220,757 @@ De acuerdo a las extracciones detalladas de los artículos y profundizadas en ro
 * Code Smells, AntiPatters, Technical Debt y Refactoring se mencionan como las principales prácticas en conjunto con otras técnicas de desarrollo colaborativo.
 
 
-# Ronda 7 (extensión de los otros papers ?)
+# Ronda 7 
+
+
+
+21) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85093676836&doi=10.1145%2f3379597.3387465&partnerID=40&md5=13791106a43d1252730a69cbeaac723c
+DOI: 10.1145/3379597.
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Access Type: Open Access
+Source: Scopus
+```
+22) Gilson, F., Morales-Trujillo, M., Mathews, M.
+
+# 22. How junior developers deal with their technical debt?
+
+```
+(2020) Proceedings - 2020 IEEE/ACM International Conference on Technical Debt, TechDebt 2020,
+pp. 51-61.
+```
+22) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85093085706&doi=10.1145%2f3387906.3388624&partnerID=40&md5=63079a2815fc72749c121a
+DOI: 10.1145/3387906.
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Source: Scopus
+```
+
+```
+Terms and conditions Privacy policy
+```
+23) Wu, Y.
+
+# 23 ~~N/A Exploring the relationship between dockerfile quality and project characteristics~~
+
+```
+(2020) Proceedings - International Conference on Software Engineering, art. no. 3382169, pp.
+128-130.
+```
+23) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85094103765&doi=10.1145%2f3377812.3382169&partnerID=40&md5=5ff44256e6c8aa9f9d7d1451e
+DOI: 10.1145/3377812.
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Access Type: Open Access
+Source: Scopus
+```
+24) Bai, G.R.
+
+# 24 ~~N/A. Improving students' testing practices~~
+
+```
+(2020) Proceedings - International Conference on Software Engineering, art. no. 3381401, pp.
+218-221.
+```
+24) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85094102796&doi=10.1145%2f3377812.3381401&partnerID=40&md5=836e38c3fd8f56a3199dddef555d715e
+DOI: 10.1145/3377812.
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Access Type: Open Access
+Source: Scopus
+```
+25) Kurbatova, Z., Veselov, I., Golubev, Y., Bryksin, T.
+
+# 25. Recommendation of Move Method Refactoring Using Path-Based Representation of Code
+
+```
+(2020) Proceedings - 2020 IEEE/ACM 42nd International Conference on Software Engineering
+Workshops, ICSEW 2020, pp. 315-322.
+```
+25) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85093099001&doi=10.1145%2f3387940.3392191&partnerID=40&md5=96c8e0baceacad9ad232dca088615aa
+DOI: 10.1145/3387940.
+
+-  BIB (Referencia tex de Scholar): 
+ ```
+NULL
+```
+-   DEF_CQ_ABSTRACT 
+```
+NULL
+```
+-  DEF_CQ_PAPER 
+```
+NULL
+```
+-  CQ_ARQ_ATRIB
+```
+NULL
+```
+- CQ_PRAC/TECN
+```
+Heuristic based approaches, machine learning-based approaches, refactoring, machine learning algorithms.
+```
+- CQ_METH/PROC/STD
+```
+NULL
+```
+- CQ_PEOP
+`NULL`
+- CQ_TOOL
+`JDeodorant, JMove, GitHub`
+- CQ_OTROS: 
+`code smell ..."smell relates to situation when a method is more interested in the content or behaviour of another class than in its original class.. refactoring tends to make software eaier to understand and mantein.. manually checking the source code to identify refactoring oportunities is a tiresome and time consuming process"`
+
+- CQ_APPROACH: ```Low```
+- COMMENTS:
+
+---
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Access Type: Open Access
+Source: Scopus
+```
+26) De Stefano, M., Pecorelli, F., Tamburri, D.A., Palomba, F., De Lucia, A.
+
+# 26. Splicing Community Patterns and Smells: A Preliminary Study
+
+```
+(2020) Proceedings - 2020 IEEE/ACM 42nd International Conference on Software Engineering
+Workshops, ICSEW 2020, pp. 703-710.
+```
+26)
+
+
+```
+Terms and conditions Privacy policy
+```
+```
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85093092679&doi=10.1145%2f3387940.3392204&partnerID=40&md5=f38a32ff52f2fe004701d8333a16d30f
+DOI: 10.1145/3387940.
+```
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Access Type: Open Access
+Source: Scopus
+```
+27) Dominic, J., Ritter, C., Rodeghero, P.
+
+# 27 ~~N/A Onboarding bot for newcomers to software engineering~~
+
+```
+(2020) Proceedings - 2020 IEEE/ACM International Conference on Software and System Processes,
+ICSSP 2020, pp. 91-94.
+```
+27) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092462077&doi=10.1145%2f3379177.3388901&partnerID=40&md5=fb01f796df697aff2812072de812a6cc
+DOI: 10.1145/3379177.
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Access Type: Open Access
+Source: Scopus
+```
+28) Jiang, L., Rewcastle, R., Denny, P., Tempero, E.
+
+# 28 ~~N/A CompareCFG: Providing Visual Feedback on Code Quality Using Control Flow Graphs~~
+
+```
+(2020) Annual Conference on Innovation and Technology in Computer Science Education, ITiCSE,
+pp. 493-499.
+```
+28) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85086447326&doi=10.1145%2f3341525.3387362&partnerID=40&md5=26c71cc563382f499d60ae03ad6f
+DOI: 10.1145/3341525.
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Source: Scopus
+```
+29) Uddin, G., Khomh, F., Roy, C.K.
+
+# 29. Mining API usage scenarios from stack overflow
+
+```
+(2020) Information and Software Technology, 122, art. no. 106277,.
+```
+29) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85079356173&doi=10.1016%2fj.infsof.2020.106277&partnerID=40&md5=e3c2ddc19102034140596302b0edf
+DOI: 10.1016/j.infsof.2020.
+
+```
+Document Type: Article
+Publication Stage: Final
+Source: Scopus
+```
+
+```
+Terms and conditions Privacy policy
+```
+30) Salah, A., Truong, Q.-T., Lauw, H.W.
+
+# 30. Cornac: A comparative framework for multimodal recommender systems
+
+```
+(2020) Journal of Machine Learning Research, 21,.
+```
+30) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85087331608&partnerID=40&md5=7d9794d9b4aaad36427cec5b0713db
+Document Type: Article
+Publication Stage: Final
+Source: Scopus
+
+31) Subramanian, K., Maas, J., Borchers, J.
+
+# 31. TRACTUS: Understanding and Supporting Source Code Experimentation in Hypothesis-Driven Data
+
+# Science
+
+```
+(2020) Conference on Human Factors in Computing Systems - Proceedings, art. no. 3376764,.
+```
+31) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091316657&doi=10.1145%2f3313831.3376764&partnerID=40&md5=3b56a02bc4e938ef0907b73e6f63c
+DOI: 10.1145/3313831.
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Source: Scopus
+```
+32) Akbar, M.A., Huang, Z., Yu, Z., Mehmood, F., Hussain, Y., Hamza, M.
+
+# 32. Towards continues code recommendation and implementation system: An Initial Framework
+
+```
+(2020) ACM International Conference Proceeding Series, pp. 439-444.
+```
+32) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85090845801&doi=10.1145%2f3383219.3383282&partnerID=40&md5=ccb7c46c9d352017238f3a4c8bbce4a
+DOI: 10.1145/3383219.
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Source: Scopus
+```
+33) Misra, V., Reddy, J.S.K., Chimalakonda, S.
+
+# 33 N/A ~~Is there a correlation between code comments and issue ?: An exploratory study~~
+
+```
+(2020) Proceedings of the ACM Symposium on Applied Computing, pp. 110-117.
+```
+33) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85083040700&doi=10.1145%2f3341105.3374009&partnerID=40&md5=e6f39b375cfff0e7c2e0d7188ac2b0c
+DOI: 10.1145/3341105.
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Source: Scopus
+```
+34) Righi, M., Andela, B., Eyring, V., Lauer, A., Predoi, V., Schlund, M., Vegas-Regidor, J., Bock, L.,
+
+
+```
+Terms and conditions Privacy policy
+```
+```
+Brötz, B., De Mora, L., Diblen, F., Dreyer, L., Drost, N., Earnshaw, P., Hassler, B., Koldunov, N.,
+Little, B., Loosveldt Tomas, S., Zimmermann, K.
+```
+# 34 Earth System Model Evaluation Tool (ESMValTool) v2.0-technical overview
+
+```
+(2020) Geoscientific Model Development, 13 (3), pp. 1179-1199. Cited 4 times.
+```
+34) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85082051518&doi=10.5194%2fgmd-13-1179-2020&partnerID=40&md5=e2eb4108e981201241792f951769a
+DOI: 10.5194/gmd-13-1179-
+
+```
+Document Type: Article
+Publication Stage: Final
+Access Type: Open Access
+Sour ce: Scopus
+```
+35) Ludwig, J., Cline, D., Novstrup, A.
+
+# 35 A Case Study Using CBR-Insight to Visualize Source Code Quality
+
+```
+(2020) IEEE Aerospace Conference Proceedings, art. no. 9172526,.
+```
+35) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092544818&doi=10.1109%2fAERO47225.2020.9172526&partnerID=40&md5=826ffaf5709d5015ed52d1927440f63c
+DOI: 10.1109/AERO47225.2020.
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Source: Scopus
+```
+36) Panigrahi, R., Kuanar, S.K., Kumar, L.
+
+# 36. Application of Naïve Bayes classifiers for refactoring Prediction at the method level
+
+```
+(2020) 2020 International Conference on Computer Science, Engineering and Applications, ICCSEA
+2020, art. no. 9132849,.
+```
+36) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85089773794&doi=10.1109%2fICCSEA49143.2020.9132849&partnerID=40&md5=0b7061fefd3c1a7aacb4cfc641a82c
+DOI: 10.1109/ICCSEA49143.2020.
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Source: Scopus
+```
+37) Rimawi, D., Zein, S.
+
+# 37. A static analysis of android source code for design patterns usage
+
+```
+(2020) International Journal of Advanced Trends in Computer Science and Engineering, 9 (2), pp.
+2178-2186.
+```
+37) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85085160223&doi=10.30534%2fijatcse%2f2020%2f194922020&partnerID=40&md5=a118ae4ecb768cabdb5d34034e0fb7d
+DOI: 10.30534/ijatcse/2020/
+
+
+```
+Terms and conditions Privacy policy
+```
+```
+Document Type: Article
+Publication Stage: Final
+Access Type: Open Access
+Source: Scopus
+```
+38) Vassallo, C., Panichella, S., Palomba, F., Proksch, S., Gall, H.C., Zaidman, A.
+
+# 38. How developers engage with static analysis tools in different contexts
+
+```
+(2020) Empirical Software Engineering, 25 (2), pp. 1419-1457. Cited 1 time.
+```
+38) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85076207019&doi=10.1007%2fs10664-019-09750-5&partnerID=40&md5=93c776c9292559058c77371ea7856e
+DOI: 10.1007/s10664-019-09750-
+
+```
+Document Type: Article
+Publication Stage: Final
+Source: Scopus
+```
+39) Badanahatti, A., Pillutla, S.
+
+# 39. ~~N/A Interleaving Software Craftsmanship Practices in Medical Device Agile Development~~
+
+```
+(2020) ACM International Conference Proceeding Series, art. no. 3385047,.
+```
+39) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85082655082&doi=10.1145%2f3385032.3385047&partnerID=40&md5=55582268eed8ffa92a4580183d1e
+DOI: 10.1145/3385032.
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Source: Scopus
+```
+40) Kirk, D., Crow, T., Luxton-Reilly, A., Tempero, E.
+
+# 40 On assuring learning about code quality
+
+```
+(2020) ACE 2020 - Proceedings of the 22nd Australasian Computing Education Conference, Held in
+conjunction with Australasian Computer Science Week, pp. 86-94. Cited 1 time.
+```
+40) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85079325424&doi=10.1145%2f3373165.3373175&partnerID=40&md5=2fc6682e22a439ec9ad3c348933b
+DOI: 10.1145/3373165.
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Source: Scopus
+```
+41) Li, G., Liu, H., Jin, J., Umer, Q.
+
+# 41. Deep Learning Based Identification of Suspicious Return Statements
+
+```
+(2020) SANER 2020 - Proceedings of the 2020 IEEE 27th International Conference on Software
+Analysis, Evolution, and Reengineering, art. no. 9054826, pp. 480-491.
+```
+41)
+
+
+```
+Terms and conditions Privacy policy
+```
+```
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85083556267&doi=10.1109%2fSANER48275.2020.9054826&partnerID=40&md5=c5a8f3f4b8a450c6d2aebf306b9ea
+DOI: 10.1109/SANER48275.2020.
+```
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Source: Scopus
+```
+42) Moe, M.M., Oo, K.K.
+
+# 42. Consequences of Dependent and Independent Variables based on Acceptance Test Suite Metric Using Test Driven Development Approach
+
+```
+(2020) 2020 IEEE Conference on Computer Applications, ICCA 2020, art. no. 9022828,.
+```
+42) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85082392543&doi=10.1109%2fICCA49400.2020.9022828&partnerID=40&md5=b1e41d9390832deb953866abc0e971f
+DOI: 10.1109/ICCA49400.2020.
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Source: Scopus
+```
+43) Moe, M.M., Oo, K.K.
+
+# 43. Comparative results of dependent and independent variables focused on regression analysis using test-driven development
+
+```
+(2020) WCSE 2020: 2020 10th International Workshop on Computer Science and Engineering, pp.
+538-546.
+```
+43) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092367223&doi=10.18178%2fwcse.2020.02.006&partnerID=40&md5=d35117127fd9c238931704040b
+DOI: 10.18178/wcse.2020.02.
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Access Type: Open Access
+Source: Scopus
+```
+44) Papis, B.K., Grochowski, K., Subzda, K., Sijko, K.
+
+# 44. Experimental evaluation of test-driven development with interns working on a real industrial project
+
+```
+(2020) IEEE Transactions on Software Engineering,.
+```
+44) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091950145&doi=10.1109%2fTSE.2020.3027522&partnerID=40&md5=6a5f752c286c0fc38083b34efc2f213d
+DOI: 10.1109/TSE.2020.
+
+```
+Document Type: Article
+Publication Stage: Article in Press
+Access Type: Open Access
+Source: Scopus
+```
+
+```
+Terms and conditions Privacy policy
+```
+45) Tsoupidi, R.M., Castañeda Lozano, R., Baudry, B.
+
+# 45. Constraint-Based Software Diversification for Efficient Mitigation of Code-Reuse Attacks
+
+```
+(2020) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence
+and Lecture Notes in Bioinformatics), 12333 LNCS, pp. 791-808.
+```
+45) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85091315219&doi=10.1007%2f978-3-030-58475-7_46&partnerID=40&md5=849cf47259b0cb06a67fc18159fc8c
+DOI: 10.1007/978-3-030-58475-7_
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Source: Scopus
+```
+46) Di Sorbo, A., Grano, G., Aaron Visaggio, C., Panichella, S.
+
+# 46. Investigating the criticality of user-reported issues through their relations with app rating
+
+```
+(2020) Journal of Software: Evolution and Process,.
+```
+46) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85090940323&doi=10.1002%2fsmr.2316&partnerID=40&md5=0bf4ff9f154b64585ae04f8c39bed39f
+DOI: 10.1002/smr.
+
+```
+Document Type: Article
+Publication Stage: Article in Press
+Source: Scopus
+```
+47) Saranti, A., Taraghi, B., Ebner, M., Holzinger, A.
+
+# 47. Property-Based Testing for Parameter Learning of Probabilistic Graphical Models
+
+```
+(2020) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence
+and Lecture Notes in Bioinformatics), 12279 LNCS, pp. 499-515.
+```
+47) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85090175338&doi=10.1007%2f978-3-030-57321-8_28&partnerID=40&md5=edaca321f6af97291078bc782e3f0bc
+DOI: 10.1007/978-3-030-57321-8_
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Source: Scopus
+```
+48) Nazir, S., Fatima, N., Chuprat, S.
+
+# 48. Situational modern code review framework to support individual sustainability of software engineers
+
+```
+(2020) International Journal of Advanced Computer Science and Applications, 11 (6), pp. 366-375.
+```
+48) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85087819082&doi=10.14569%2fIJACSA.2020.0110648&partnerID=40&md5=274eb34b30264d21fc08efbde69fdf
+DOI: 10.14569/IJACSA.2020.
+
+```
+Document Type: Article
+Publication Stage: Final
+```
+
+```
+Terms and conditions Privacy policy
+```
+```
+Access Type: Open Access
+Source: Scopus
+```
+49) Badreddin, O.
+
+# 49. ~~ N/ADistributed software health and quality metrics with blockchains~~
+
+```
+(2020) CASCON 2019 Proceedings - Conference of the Centre for Advanced Studies on
+Collaborative Research - Proceedings of the 29th Annual International Conference on Computer
+Science and Software Engineering, pp. 365-366.
+```
+49) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85087409391&partnerID=40&md5=3482c35f0f69b1deda963fe7a88075c
+Document Type: Conference Paper
+Publication Stage: Final
+Source: Scopus
+
+50) Spasić, M., Janičić, M.V.
+
+# 50. Verification supported refactoring of embedded sql
+
+```
+(2020) Software Quality Journal,. Cited 1 time.
+```
+50) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85086670462&doi=10.1007%2fs11219-020-09517-y&partnerID=40&md5=70cea1163ed9864029ca29461e9a
+DOI: 10.1007/s11219-020-09517-y
+
+```
+Document Type: Article
+Publication Stage: Article in Press
+Source: Scopus
+```
+51) Rakshith, M.N., Shivaprasad, N.
+
+# ~~51. N/A Build Optimization Using Jenkins~~
+
+```
+(2020) Lecture Notes on Data Engineering and Communications Technologies, 38, pp. 401-409.
+Cited 1 time.
+```
+51) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85083464260&doi=10.1007%2f978-3-030-34080-3_45&partnerID=40&md5=996f7581aab7e18911e7b1be4018fe
+DOI: 10.1007/978-3-030-34080-3_
+
+```
+Document Type: Book Chapter
+Publication Stage: Final
+Source: Scopus
+```
+52) Masmali, O., Badreddin, O.
+
+# ~~52. Towards a model-based fuzzy software quality metrics~~
+
+```
+(2020) MODELSWARD 2020 - Proceedings of the 8th International Conference on Model-Driven
+Engineering and Software Development, pp. 136-148. Cited 1 time.
+```
+52)
+
+
+```
+Terms and conditions Privacy policy
+```
+```
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85082984319&partnerID=40&md5=645f7f40db94d212d73d3e488b1ed
+Document Type: Conference Paper
+Publication Stage: Final
+Source: Scopus
+```
+53) Sun, Q., Wu, J., Liu, K.
+
+# 53. Toward Understanding Students' Learning Performance in an Object-Oriented Programming Course:
+
+# The Perspective of Program Quality
+
+```
+(2020) IEEE Access, 8, art. no. 8995543, pp. 37505-37517.
+```
+53) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85081679892&doi=10.1109%2fACCESS.2020.2973470&partnerID=40&md5=44f786f8d1df75597ee6ce47ebb
+DOI: 10.1109/ACCESS.2020.
+
+```
+Document Type: Article
+Publication Stage: Final
+Access Type: Open Access
+Source: Scopus
+```
+54) Guo, C., Yang, H., Huang, D., Zhang, J., Dong, N., Xu, J., Zhu, J.
+
+# 54 Review Sharing via Deep Semi-Supervised Code Clone Detection
+
+```
+(2020) IEEE Access, 8, art. no. 8959206, pp. 24948-24965.
+```
+54) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85079620738&doi=10.1109%2fACCESS.2020.2966532&partnerID=40&md5=8d155b8423b87b8026a725bac7ca3e
+DOI: 10.1109/ACCESS.2020.
+
+```
+Document Type: Article
+Publication Stage: Final
+Access Type: Open Access
+Source: Scopus
+```
+55) Fronza, I., Hellas, A., Ihantola, P., Mikkonen, T.
+
+# 55. Code Reviews, Software Inspections, and Code Walkthroughs: Systematic Mapping Study of
+
+# Research Topics
+
+```
+(2020) Lecture Notes in Business Information Processing, 371 LNBIP, pp. 121-133.
+```
+55) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078437204&doi=10.1007%2f978-3-030-35510-4_8&partnerID=40&md5=7d5822500a9ca7c83cb2e805992b
+DOI: 10.1007/978-3-030-35510-4_
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Source: Scopus
+```
+56) Mumtaz, H., Latif, S., Beck, F., Weiskopf, D.
+
+# 56. Exploranative Code Quality Documents
+
+
+```
+Terms and conditions Privacy policy
+```
+```
+(2020) IEEE Transactions on Visualization and Computer Graphics, 26 (1), art. no. 8807349, pp.
+1129-1139. Cited 2 times.
+```
+56) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075600970&doi=10.1109%2fTVCG.2019.2934669&partnerID=40&md5=e64d529f72a1630ed41e88996832b
+DOI: 10.1109/TVCG.2019.
+
+```
+Document Type: Article
+Publication Stage: Final
+Source: Scopus
+```
+57) Ochodek, M., Hebig, R., Meding, W., Frost, G., Staron, M.
+
+# 57. Recognizing lines of code violating company-specific coding guidelines using machine learning: A
+
+# Method and Its Evaluation
+
+```
+(2020) Empirical Software Engineering, 25 (1), pp. 220-265.
+```
+57) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075204546&doi=10.1007%2fs10664-019-09769-8&partnerID=40&md5=8cf3824cf1e4c7096ea29752f6a
+DOI: 10.1007/s10664-019-09769-
+
+```
+Document Type: Article
+Publication Stage: Final
+Access Type: Open Access
+Source: Scopus
+```
+58) Aman, H., Amasaki, S., Yokogawa, T., Kawahara, M.
+
+# 58 ~~N/A A Survival Analysis-Based Prioritization of Code Checker Warning: A Case Study Using PMD~~
+
+```
+(2020) Studies in Computational Intelligence, 844, pp. 69-83.
+```
+58) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070607267&doi=10.1007%2f978-3-030-24405-7_5&partnerID=40&md5=d706ab01c848630593e6c1a248832a
+DOI: 10.1007/978-3-030-24405-7_
+
+```
+Document Type: Conference Paper
+Publication Stage: Final
+Source: Scopus
+```
+59) Shaheen, A., Qamar, U., Nazir, A., Bibi, R., Ansar, M., Zafar, I.
+
+# 59. OOCQM: Object Oriented Code Quality Meter
+
+```
+(2020) Studies in Computational Intelligence, 848, pp. 149-163.
+```
+59) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85070552262&doi=10.1007%2f978-3-030-25225-0_11&partnerID=40&md5=9bb7d3cce08aa556eb1e06b5a96718ba
+DOI: 10.1007/978-3-030-25225-0_
+
+```
+Document Type: Book Chapter
+Publication Stage: Final
+Source: Scopus
+```
+
+```
+Terms and conditions Privacy policy
+```
+60) Ruiz-Rube, I., Person, T., Dodero, J.M., Mota, J.M., Sánchez-Jara, J.M.
+
+# 60. Applying static code analysis for domain-specific languages
+
+```
+(2020) Software and Systems Modeling, 19 (1), pp. 95-110. Cited 1 time.
+```
+60) https://www.scopus.com/inward/record.uri?eid=2-s2.0-85064242192&doi=10.1007%2fs10270-019-00729-w&partnerID=40&md5=51c146d429a9b057e87177df
+DOI: 10.1007/s10270-019-00729-w
+
+```
+Document Type: Article
+Publication Stage: Final
+Source: Scopus
+```
+| Paper | Q Atributes | Q Practice | Definition |
+| -------- | -------- | -------- |--------|
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    | 
+|   |     |    |
+|   |     |    |
+
+
 
 # Ronda 8 Extracción, Puesta en Común
 
